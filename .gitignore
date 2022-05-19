@@ -1,0 +1,5 @@
+src/*/*.o
+src/*.o
+myftp
+.vscode
+test_ftp.sh
